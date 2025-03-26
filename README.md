@@ -114,7 +114,7 @@ https://kiwi.zchat.org/avatars/
 Avoid unnecessary directories to keep things simple!
 
 For easier DNS management, consider using a subdomain such as:
-chat.ircforumlari.net instead of irc.ircforumlari.net
+chat.zchat.org instead of chat.zchat.org
 
 This will make it easier to configure Nginx settings.
 
